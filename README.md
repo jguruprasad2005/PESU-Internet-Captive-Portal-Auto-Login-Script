@@ -1,5 +1,6 @@
 Prerequisites:
-curl must be installed if not then run the below command for ubuntu
+curl must be installed if not then run the command for ubuntu
+
 sudo apt-get install curl
 
 You need to update the following variables in the script with your own information:
